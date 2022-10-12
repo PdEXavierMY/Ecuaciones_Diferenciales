@@ -1,4 +1,3 @@
-# Ecuaciones_Diferenciales
 <h1 align="center">Ecuaciones diferenciales propuestas en exámen</h1>
 
 En este [repositorio](https://github.com/Xavitheforce/Ecuaciones_Diferenciales) quedan resuletas las cuatro ecuaciones diferenciales con python.
