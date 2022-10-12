@@ -20,4 +20,13 @@ def ecuacion2():
     sol = sp.dsolve(y(x).diff(x) - f)
     print(sol)
 
-ecuacion2()
+
+def ecuacion3():
+    x = sp.Symbol('x')
+    y = sp.Function('y')
+    f = 2*(x-2)**2
+    sp.Eq(y(x).diff()-(y(x)/x-2), f)
+    sol = sp.dsolve(y(x).diff(x) - f)
+    print(sol)
+
+ecuacion3()
