@@ -1,9 +1,9 @@
 # Ecuaciones_Diferenciales
-<h1 align="center">Ecuaciones diferenciles propuestas en exámen</h1>
+<h1 align="center">Ecuaciones diferenciales propuestas en exámen</h1>
 
-En este [repositorio](https://github.com/Xavitheforce/Ecuaciones_Diferenciales) quedan resuletos las cuatro ecuaciones diferenciales con python.
+En este [repositorio](https://github.com/Xavitheforce/Ecuaciones_Diferenciales) quedan resuletas las cuatro ecuaciones diferenciales con python.
 
-El código empleado para resolverlo es el siguiente:
+El código empleado para resolverlas es el siguiente:
 
 ```python
 import sympy as sp
