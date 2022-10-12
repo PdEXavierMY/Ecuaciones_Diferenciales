@@ -45,3 +45,5 @@ def solicitar_introducir_numero_extremo(invite, minimum=MIN, maximum=MAX):
         if minimum <= datoIntroducido <= maximum:
             # Tenemos lo que queremos, salimos del bucle saliendo de la función
             return datoIntroducido
+        else:
+            print("El número debe estar comprendido entre {} y {}.".format(minimum, maximum), file=sys.stderr)
